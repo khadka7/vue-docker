@@ -27,8 +27,8 @@ To stop the staging container, use the `docker-compose down` command:
 docker-compose down
 ```
 
-To start the staging container, use the `docker-compose up` command:
+To start the staging container again, use the `docker-compose up -d` command:
 
 ```bash
-docker-compose up
+docker-compose up -d
 ```
